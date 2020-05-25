@@ -1,5 +1,5 @@
 public class Greet {
   public void greet(){
-    System.out.println("Endre");
+    System.out.println("Greetings!");
   }
 }
