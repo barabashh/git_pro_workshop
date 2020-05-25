@@ -1,5 +1,5 @@
 public class Future {
-  public void future() {
-    System.out.println("Rooster");
+  public void future(String parameter) {
+    System.out.println("Your future looks like " + parameter);
   }
 }
