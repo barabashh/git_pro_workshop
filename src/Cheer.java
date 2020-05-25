@@ -1,7 +1,5 @@
 public class Cheer {
-  public void cheer(String p1, String p2) {
-    System.out.println("hungarian");
-    System.out.println(p1);
-    System.out.println(p2);
+  public void cheer(String teamName) {
+    System.out.println("Cheer for the " + teamName);
   }
 }
