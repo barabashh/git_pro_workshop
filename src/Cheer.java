@@ -1,5 +1,5 @@
 public class Cheer {
   public void cheer(String teamName) {
-    System.out.println("hungarian");
+    System.out.println("Cheer for the " + teamName);
   }
 }
